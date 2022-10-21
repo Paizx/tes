@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6281249086533@s.whatsapp.net"],
+  "ownerName": ["sy"],
+  "botName": "Jem-Bot",
+  "sessionName": "session",
+  "pathimg": "./media/Jem.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 45,
+	"user": 25
+  }
+}
